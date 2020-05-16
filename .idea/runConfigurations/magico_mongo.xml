@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="magico-mongo" type="NodeJSConfigurationType" path-to-js-file="test/index.js" working-dir="$PROJECT_DIR$">
+    <envs>
+      <env name="DB_URL" value="mongodb+srv://admin:hSfR8R7pA4j1Bzgn@supreme-c9-bbase-zpn5h.mongodb.net/test?retryWrites=true&amp;w=majority" />
+    </envs>
+    <method v="2" />
+  </configuration>
+</component>
